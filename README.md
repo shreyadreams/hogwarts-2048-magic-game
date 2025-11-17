@@ -32,7 +32,7 @@ A magical twist to the classic 2048 game with Hogwarts-inspired visuals, golden 
 
 ## 👩‍💻 Developer
 **Shreya Jain**  
-Creative Frontend Developer | UI Enthusiast | Magic + Design Lover
+Creative Frontend Developer | UI Enthusiast | Magic + Design 
 
 ---
 
