@@ -30,4 +30,11 @@ A magical twist to the classic 2048 game with Hogwarts-inspired visuals, golden 
 
 ---
 
-## 🚀 Run Locally
+## 👩‍💻 Developer
+**Shreya Jain**  
+Creative Frontend Developer | UI Enthusiast | Magic + Design Lover
+
+---
+
+## ⭐ Support
+If you like this project, please **star the repository** — it really helps!
