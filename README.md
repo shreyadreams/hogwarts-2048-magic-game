@@ -19,7 +19,7 @@ A magical twist to the classic 2048 game with Hogwarts-inspired visuals, golden 
 
 ## 🖥️ Live Demo
 *(Will work after enabling GitHub Pages)*  
-`https://YOUR-USERNAME.github.io/hogwarts-2048-magic-game/`
+`https://shreyadreams.github.io/hogwarts-2048-magic-game/`
 
 ---
 
